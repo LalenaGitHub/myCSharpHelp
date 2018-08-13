@@ -1,3 +1,16 @@
+HotKeys
+Kommentar 
+Strl+K  Strl+K
+Strl+C  Strl+U
+
+Format 
+Strl+K	Strl+D
+Strl+K	Strl+F
+
+
+
+
+
 JSON:
 https://www.youtube.com/watch?v=XssLaKDRV4Y
 
