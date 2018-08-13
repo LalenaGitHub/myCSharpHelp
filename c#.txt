@@ -1,0 +1,47 @@
+JSON:
+https://www.youtube.com/watch?v=XssLaKDRV4Y
+
+Convertor 
+String --> JSON 
+https://jsoneditoronline.org/
+
+JSON --> C#
+http://json2csharp.com/#
+
+Exampel
+https://api.exmo.com/v1/trades/?pair=BTC_USD
+
+// DataToTrade.cs
+using System;
+using System.Collections.Generic;
+
+namespace ExmoAPI
+{
+    internal class DataToTrade
+    {
+
+        public class BTCUSD
+        {
+            public int trade_id { get; set; }
+            public string type { get; set; }
+            public string quantity { get; set; }
+            public string price { get; set; }
+            public string amount { get; set; }
+            public int date { get; set; }
+        }
+
+        public class BTCUSDList
+        {
+            public List<BTCUSD> BTC_USD { get; set; }
+        }
+
+    }
+}
+
+ 
+
+//Main 
+var value = api.ApiQuery("trades", new Dictionary<string, string> { { "pair", "BTC_USD" } } );
+
+BTCUSDList btcusd = JsonConvert.DeserializeObject<BTCUSDList>(value);
+Console.WriteLine(btcusd.BTC_USD[0].type);
