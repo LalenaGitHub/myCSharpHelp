@@ -1,0 +1,10 @@
+http://www.wpftutorial.net/draganddrop.html
+
+https://docs.microsoft.com/de-de/dotnet/framework/wpf/advanced/drag-and-drop
+
+https://social.msdn.microsoft.com/Forums/vstudio/en-US/d79c5c30-88f4-493d-bd1c-7c5cfb342bae/implementing-drag-and-drop-from-windows-explorer-to-listview-wpf-mvvm-c
+
+
+
+https://www.youtube.com/watch?v=l1C9fEh-Pxs
+https://www.youtube.com/watch?v=JNp1D2QrOUg

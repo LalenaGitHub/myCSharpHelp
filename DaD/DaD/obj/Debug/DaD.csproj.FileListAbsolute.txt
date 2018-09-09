@@ -1,0 +1,10 @@
+S:\cSharp\DaD\DaD\bin\Debug\DaD.exe.config
+S:\cSharp\DaD\DaD\bin\Debug\DaD.exe
+S:\cSharp\DaD\DaD\bin\Debug\DaD.pdb
+S:\cSharp\DaD\DaD\obj\Debug\DaD.csprojAssemblyReference.cache
+S:\cSharp\DaD\DaD\obj\Debug\DaD.FormDaD.resources
+S:\cSharp\DaD\DaD\obj\Debug\DaD.Properties.Resources.resources
+S:\cSharp\DaD\DaD\obj\Debug\DaD.csproj.GenerateResource.cache
+S:\cSharp\DaD\DaD\obj\Debug\DaD.csproj.CoreCompileInputs.cache
+S:\cSharp\DaD\DaD\obj\Debug\DaD.exe
+S:\cSharp\DaD\DaD\obj\Debug\DaD.pdb
