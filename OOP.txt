@@ -1,0 +1,3 @@
+﻿tertiäre Operator
+
+vatRate = productCategory === "books" ? 1.07 : 1.19;
